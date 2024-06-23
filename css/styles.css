@@ -58,12 +58,12 @@ body {
 
 
 #contadorVisitas {
-  background-color: #ff4957;
+  background-color:sandybrown;
   height: 50px;
   width: 80px;
   color: white;
   border-radius: 30px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 25px;
   margin-top: 10px;
 }
@@ -71,7 +71,7 @@ body {
 
 #btnReestablecer {
   margin-top: 20px;
-  background-color: #008cba;
+  background-color:darkorchid;
   cursor: pointer;
   font-size: 18px;
   padding: 8px 20px;
